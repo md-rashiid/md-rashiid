@@ -255,7 +255,7 @@ Code Quality:            100% compilation, 0 warnings, Google style guide compli
 | Platform | Link |
 |---|---|
 | **GitHub** | [github.com/md-rashiid](https://github.com/md-rashiid) |
-| **LinkedIn** | [linkedin.com/in/md-rashiid-dev](https://linkedin.com/in/md-rashiid-dev) |
+| **LinkedIn** | [linkedin.com/in/md-rashid-8423642ab](https://www.linkedin.com/in/md-rashid-8423642ab) |
 | **Email** | [rashiid.cse@gmail.com](mailto:rashiid.cse@gmail.com) |
 | **Phone** | +91 9263071036 |
 

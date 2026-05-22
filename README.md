@@ -25,17 +25,6 @@ I'm a passionate **backend developer** dedicated to crafting impactful solutions
 
 ---
 
-## 📊 **Most Used Languages**
-
-```
-Java         ████████████████████ 80%
-SQL          ████░░░░░░░░░░░░░░░░ 12%
-Python       ██░░░░░░░░░░░░░░░░░░  5%
-C            ░░░░░░░░░░░░░░░░░░░░  3%
-```
-
----
-
 ## 🛠️ **Tech Stack & Tools**
 
 ### **Languages**

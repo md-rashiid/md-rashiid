@@ -108,6 +108,16 @@ public class MdRashid {
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-rashiid&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 📌 Featured Projects
 
 > 🔧 *Building awesome projects — stay tuned! More coming soon as I progress through my roadmap.*

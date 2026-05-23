@@ -1,315 +1,173 @@
-# 🚀 **Md Rashid** — Backend Engineer (Core Java Specialist)
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=md-rashiid&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/md-rashiid?label=Followers&style=flat)
-![Repos](https://img.shields.io/badge/Public%20Repos-12-brightgreen?style=flat)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Md+Rashid+%F0%9F%91%8B;Backend+Engineer+%7C+Java+Specialist;Building+Scalable+Systems+%F0%9F%9A%80;Core+Java+%E2%86%92+Spring+Boot+%E2%86%92+Cloud)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👋 Hi there, I'm **Md Rashid**
+<div align="center">
 
-**Backend Engineer | Java Specialist | Building Scalable Systems**
+![Profile Views](https://komarev.com/ghpvc/?username=md-rashiid&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/md-rashiid?label=Followers&style=for-the-badge&color=blue)](https://github.com/md-rashiid)
+[![GitHub stars](https://img.shields.io/github/stars/md-rashiid?label=Stars&style=for-the-badge&color=yellow)](https://github.com/md-rashiid)
 
-I'm a passionate **backend developer** dedicated to crafting impactful solutions for real-world problems. My development journey spans **Core Java, Spring Boot, databases, and cloud technologies**, with a focus on building production-ready systems.
+</div>
 
-```
-🎯 Goal: Become a full-stack backend engineer (Java + Spring Boot + Cloud)
-💼 Status: 6th Semester CSE Student | Backend Engineering Specialist
-🚀 Path: Core Java → Advanced Java → Spring Boot → DevOps → System Design
-📍 Location: India
+---
+
+## 👨‍💻 About Me
+
+```java
+public class MdRashid {
+    String name       = "Md Rashid";
+    String role       = "Backend Engineer | Java Specialist";
+    String location   = "India 📍";
+    String education  = "6th Semester CSE Student";
+    String[] learning = {"Advanced Java", "Spring Boot", "System Design", "DevOps"};
+    String goal       = "Build scalable backend systems & crack top tech companies 🎯";
+    String funFact    = "I debug with coffee ☕ and ship with confidence 🚀";
+}
 ```
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 🛠️ Tech Stack & Tools
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### **Core Java & OOP**
-- **Object-Oriented Programming** → Inheritance, Polymorphism, Encapsulation, Abstraction, Composition
-- **Collections Framework** → ArrayList, HashMap, HashSet, LinkedList, PriorityQueue
-- **Design Patterns** → Strategy, Factory, Singleton, Observer, Adapter
-- **Java 8+ Features** → Streams, Lambda, Functional Interfaces, Optional
-- **Exception Handling** → Try-catch, Custom Exceptions, Try-with-resources
-- **Date/Time API** → LocalDate, LocalTime, ChronoUnit, Formatting
-
-### **Backend Technologies** (Learning Path)
-| Phase | Technology | Timeline | Status |
-|-------|-----------|----------|--------|
-| Phase 1 | **Core Java** | Sep - Dec 2025 | ✅ Completing |
-| Phase 2 | **Advanced Java** | Dec 11 - Jan 5 | 🔄 Next |
-| Phase 3 | **Spring Boot** | Jan 6 - Feb | 🚀 Coming |
-| Phase 4 | **DevOps & Cloud** | Feb - Mar | 📅 Future |
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **MySQL** — Database design, queries, joins, optimization
-- **SQL** — Complex queries, indexing, normalization
-- **JDBC** — Java database connectivity (learning next)
-- **JPA/Hibernate** — ORM mapping (Phase 3)
+### Backend & Frameworks (Learning Path)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### **Development Tools**
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-- **IntelliJ IDEA** — Java IDE, debugging, code generation
-- **Git & GitHub** — Version control, collaboration, SSH authentication
-- **Maven** — Build automation, dependency management (learning)
-- **Postman** — API testing, request validation (learning)
-- **Linux** — Command line, bash scripting, server basics
-
-### **Coming Soon (Spring Boot Phase)**
-- **Spring Framework Core** — Dependency Injection, Beans, Annotations
-- **Spring Boot** — Auto-configuration, embedded servers, starter dependencies
-- **Spring Data JPA** — Database abstraction, query methods, transactions
-- **Spring Security** — Authentication, Authorization, JWT tokens
-- **REST APIs** — Controller design, status codes, error handling
-- **Docker** — Containerization, images, containers
-- **AWS** — EC2, S3, RDS (basic cloud deployment)
-- **CI/CD** — GitHub Actions, automated testing, deployment pipelines
-
----
-
-## 📦 **Featured Capstone Projects**
-
-All 4 projects showcase **Core Java & OOP mastery** with proper package structure, design patterns, and production-ready code.
-
-### **1️⃣ E-Commerce System** — Strategy Pattern
-🔗 [View Project](https://github.com/md-rashiid/java-oop-projects/tree/main/05-ecommerce-system)
-
-**What it teaches:** Design patterns, flexible payment methods, real-world business logic
-- 14 Classes | Strategy Pattern for 3 payment methods (Card, UPI, COD)
-- Multi-tier product hierarchy with proper encapsulation
-- Order management with status tracking
-- Inventory system with stock validation
-
----
-
-### **2️⃣ Vehicle Rental System** — Date Logic & Polymorphism
-🔗 [View Project](https://github.com/md-rashiid/java-oop-projects/tree/main/08-vehicle-rental)
-
-**What it teaches:** Date handling, polymorphism, real-world billing logic
-- 8 Classes | Clean package structure (com.rental.models)
-- Vehicle hierarchy (Car, Bike, Truck) with runtime polymorphism
-- Smart billing with ChronoUnit.DAYS.between() calculations
-- Late penalty system (₹500/day) — real rental agency logic
-
----
-
-### **3️⃣ Library Management System** — Collections Framework
-🔗 [View Project](https://github.com/md-rashiid/java-oop-projects/tree/main/06-library-management)
-
-**What it teaches:** Collections (ArrayList, HashMap), data validation, business rules
-- 5 Classes | ArrayList for history + HashMap for fast lookup
-- Member registration with email/phone validation
-- Fine calculation with proper encapsulation
-- Search functionality by title, author, ISBN
-
----
-
-### **4️⃣ Hotel Booking System** — Inheritance & Polymorphism
-🔗 [View Project](https://github.com/md-rashiid/java-oop-projects/tree/main/07-hotel-booking)
-
-**What it teaches:** Class hierarchies, polymorphic pricing, state management
-- 7 Classes | Room inheritance (Single, Double, Suite, Deluxe)
-- Dynamic pricing per room type
-- Guest management with booking lifecycle
-- Real invoice generation with cancellation logic
-
----
-
-## 🎯 **Learning Roadmap 2026**
-
-```
-┌─────────────────────────────────────────────────────┐
-│ BACKEND ENGINEERING PATH                            │
-├─────────────────────────────────────────────────────┤
-│ ✅ Phase 1: Core Java (Sep - Dec 2025)             │
-│    ✓ Variables, Data Types, Operators              │
-│    ✓ Control Flow, Loops, Arrays                   │
-│    ✓ OOP Concepts (5 pillars)                      │
-│    ✓ Collections Framework                         │
-│    ✓ Exception Handling, File I/O                  │
-│    ✓ 4 Capstone Projects COMPLETE                 │
-│                                                     │
-│ 🔄 Phase 2: Advanced Java (Dec 11 - Jan 5)        │
-│    → Java 8+ Features (Streams, Lambda)            │
-│    → Multithreading & Concurrency                  │
-│    → Design Patterns Deep Dive                     │
-│    → SOLID Principles Application                  │
-│                                                     │
-│ 🚀 Phase 3: Spring Boot (Jan 6 - Feb 28)          │
-│    → Spring Core & Dependency Injection            │
-│    → REST API Development                          │
-│    → JPA/Hibernate & Database Integration          │
-│    → Spring Security & Authentication              │
-│                                                     │
-│ 🏗️ Phase 4: System Design & DevOps (Mar - May)   │
-│    → Scalability & Load Balancing                  │
-│    → Caching Strategies                            │
-│    → Docker & Containerization                     │
-│    → CI/CD Pipelines (GitHub Actions)              │
-│    → AWS Basics (EC2, S3, RDS)                     │
-│                                                     │
-│ 🎓 Phase 5: Interview Prep & LeetCode (May+)      │
-│    → System Design Interview Questions             │
-│    → Data Structures & Algorithms                  │
-│    → Real Interview Scenarios                      │
-│    → Portfolio Projects Showcase                   │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## 💡 **Why Backend Engineering?**
-
-I'm committed to **backend development** because:
-
-- **Problem Solving** — Server logic solves real-world challenges (scaling, security, performance)
-- **Architecture** — Designing systems that handle millions of users requires deep thinking
-- **Scalability** — Building systems that grow smoothly teaches fundamental CS concepts
-- **Full Control** — Backend decides the business rules, data flow, and system behavior
-- **No UI Distraction** — Pure logic and algorithms — code quality shows immediately
-
-**Backend Stack for 2026:**
-```
-Java (Core) → Spring Boot → MySQL → REST APIs → Docker → AWS → System Design
-```
-
----
-
-## 🌟 **Code Quality Standards**
-
-| Standard | My Approach | Example |
-|----------|------------|---------|
-| **Clean Code** | Readable, self-documenting | `calculateRentalDuration()` not `calcRent()` |
-| **OOP Principles** | Proper abstraction & encapsulation | Abstract `Vehicle` class for DRY |
-| **Design Patterns** | Pattern recognition & application | Strategy for payment methods |
-| **Error Handling** | Input validation before processing | Check existence before operations |
-| **Extensibility** | Add features without modifying old code | New payment method = 1 new class |
-| **Testability** | Clear boundaries & single responsibility | Each class has one reason to change |
-
----
-
-## 📈 **Portfolio Metrics**
-
-```
-Total Projects:          4 capstone projects
-Total Classes:           34 production classes
-Lines of Code:           2500+ (100% production, no boilerplate)
-Design Patterns:         5+ (Strategy, Factory, Singleton, etc.)
-OOP Concepts Applied:    All 5 (Inheritance, Polymorphism, Encapsulation, Abstraction, Composition)
-Code Quality:            100% compilation, 0 warnings, Google style guide compliant
-```
-
----
-
-## 💬 **What Interviewers Will Ask**
-
-**1. "Why did you choose backend over frontend?"**
-- Answer: "I'm fascinated by system architecture, scalability, and solving problems at scale. Frontend is UI logic; backend is business logic, security, and performance."
-
-**2. "Tell me about your most complex project."**
-- Answer: "Vehicle Rental System — It combines abstract classes, inheritance hierarchies, polymorphism for display(), date calculations with Java 8+ API, and real-world billing logic."
-
-**3. "How would you add a new feature without breaking code?"**
-- Answer: "E-Commerce System uses Strategy Pattern. Adding a new payment method = 1 new class. No modifications to Order, Cart, or Checkout."
-
-**4. "Explain your approach to database design."**
-- Answer: "Normalization to reduce redundancy, proper indexes for O(1) lookup, foreign keys for integrity. Collections Framework taught me to choose right data structures."
-
-**5. "What's your biggest learning from these projects?"**
-- Answer: "That clean code isn't luxury, it's efficiency. One day spent designing properly saves 10 days debugging later."
-
----
-
-## 🔗 **Let's Connect**
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| **GitHub** | [github.com/md-rashiid](https://github.com/md-rashiid) |
-| **LinkedIn** | [linkedin.com/in/md-rashid-8423642ab](https://www.linkedin.com/in/md-rashid-8423642ab) |
-| **Email** | [rashiid.cse@gmail.com](mailto:rashiid.cse@gmail.com) |
-
-
-**Open for:**
-- Technical discussions on backend systems & Java
-- Code reviews and feedback
-- Internship opportunities (Backend/Java)
-- Collaboration on backend projects
-- Mentoring/teaching OOP concepts
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 **Current Focus (May 2026)**
+## 🔥 Core Java Expertise
+
+| Domain | Skills |
+|--------|--------|
+| **OOP** | Inheritance, Polymorphism, Encapsulation, Abstraction, Composition |
+| **Collections** | ArrayList, HashMap, HashSet, LinkedList, PriorityQueue, TreeMap |
+| **Design Patterns** | Strategy, Factory, Singleton, Observer, Adapter, Builder |
+| **Java 8+ Features** | Streams, Lambda, Functional Interfaces, Optional, Method References |
+| **Multithreading** | Threads, Executor Service, Synchronized, Locks, CompletableFuture |
+| **Exception Handling** | Try-catch, Custom Exceptions, Try-with-resources |
+| **Date/Time API** | LocalDate, LocalTime, ChronoUnit, DateTimeFormatter |
+
+---
+
+## 🚀 Learning Roadmap
 
 ```
-✅ Core Java Phase Complete
-   - 4 capstone projects deployed
-   - Professional GitHub setup
-   - Comprehensive README created
-   
-🔄 Building Daily Streak
-   - Daily commits to green contribution graph
-   - Sharing backend insights
-   - Reviewing code quality
-   
-🚀 Next: Phase 2 (Advanced Java)
-   - Streams & Lambda deep dive
-   - Multithreading basics
-   - Design Patterns advanced
-   - Open-source contributions
+📅 Phase 1 → Core Java           [Sep - Dec 2025]   ✅ Completing
+📅 Phase 2 → Advanced Java       [Dec - Jan 2026]   🔄 In Progress
+📅 Phase 3 → Spring Boot + REST  [Jan - Feb 2026]   🚀 Coming Soon
+📅 Phase 4 → DevOps + Cloud      [Feb - Mar 2026]   📅 Planned
+📅 Phase 5 → System Design       [Mar - Apr 2026]   📅 Planned
 ```
 
 ---
 
-## 📚 **Learning Resources**
+## 🌱 Currently Learning
 
-**Books:**
-- "Clean Code" by Robert Martin
-- "Effective Java" by Joshua Bloch
-- "Java Concurrency in Practice" by Brian Goetz
+- 🔹 **Advanced Java** — Generics, Multithreading, Java IO & NIO
+- 🔹 **Spring Boot** — REST APIs, Spring Security, JPA/Hibernate
+- 🔹 **System Design** — HLD/LLD, Caching, Load Balancing
+- 🔹 **Data Structures & Algorithms** — LeetCode grind 💪
 
-**Online:**
-- Baeldung (Java tutorials)
-- Oracle Java Documentation
-- LeetCode (Data Structures focus)
+---
 
-**Coding Philosophy:**
-> **"Code is communication. Write for the developer reading it next (probably yourself in 6 months)."**
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=md-rashiid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rashiid&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=md-rashiid&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-rashiid&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=md-rashiid&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+> 🔧 *Building awesome projects — stay tuned! More coming soon as I progress through my roadmap.*
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🔨 **Java DSA Repo** | Data Structures & Algorithms in Java | Java | 🔄 Active |
+| 🔨 **Backend Projects** | Real-world backend systems | Java, Spring Boot | 🚀 Coming |
+| 🔨 **Mini E-Commerce** | REST API based shopping system | Spring Boot, MySQL | 📅 Planned |
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rashiid)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-rashiid)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.rashiid@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/md-rashiid)
+
+</div>
 
 ---
 
 <div align="center">
 
-### One Last Thing
+### 💬 Quote I Live By
 
-Every expert was once a beginner. I'm not there yet, but I'm committed to **consistent learning, clean code, and solving real problems**.
-
-**Thanks for visiting! Feel free to reach out for collaboration, code reviews, or technical discussions.**
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 ---
 
-Made with ❤️ by **Md Rashid** — May 2026
+⭐ **If you find my work useful, consider giving a star!** ⭐
 
-⭐ **If you find my projects useful, star them!**
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>

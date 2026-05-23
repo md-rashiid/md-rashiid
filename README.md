@@ -16,6 +16,14 @@
 
 ---
 
+
+<div align="center">
+
+[![Open to Work](https://img.shields.io/badge/🚀_Open_to-Internship_%7C_Job-brightgreen?style=for-the-badge)](https://linkedin.com/in/md-rashiid)
+[![Available for](https://img.shields.io/badge/Available_for-Backend_Projects_%7C_Collaboration-blue?style=for-the-badge)](https://github.com/md-rashiid)
+
+</div>
+
 ## 👨‍💻 About Me
 
 ```java
@@ -153,6 +161,21 @@ public class MdRashid {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-rashiid)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.rashiid@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/md-rashiid)
+
+</div>
+
+
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-rashiid/md-rashiid/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-rashiid/md-rashiid/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/md-rashiid/md-rashiid/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 

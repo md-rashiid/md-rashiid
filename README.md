@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![Open to Work](https://img.shields.io/badge/🚀_Open_to-Internship_%7C_Job-brightgreen?style=for-the-badge)](https://linkedin.com/in/md-rashiid)
+[![Open to Work](https://img.shields.io/badge/🚀_Open_to-Internship_%7C_Job-brightgreen?style=for-the-badge)](https://linkedin.com/in/md-rashid-8423642ab)
 [![Available for](https://img.shields.io/badge/Available_for-Backend_Projects_%7C_Collaboration-blue?style=for-the-badge)](https://github.com/md-rashiid)
 
 </div>
@@ -157,7 +157,7 @@ public class MdRashid {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rashiid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rashid-8423642ab)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-rashiid)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.rashiid@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/md-rashiid)

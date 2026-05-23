@@ -131,16 +131,6 @@ public class MdRashid {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=md-rashiid&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 > 🔧 *Building awesome projects — stay tuned! More coming soon as I progress through my roadmap.*
@@ -164,20 +154,6 @@ public class MdRashid {
 
 </div>
 
-
----
-
-## 🐍 My Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-rashiid/md-rashiid/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-rashiid/md-rashiid/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/md-rashiid/md-rashiid/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 ---
 

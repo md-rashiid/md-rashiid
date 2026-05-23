@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=md-rashiid&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/md-rashiid?label=Followers&style=for-the-badge&color=blue)](https://github.com/md-rashiid)
-[![GitHub stars](https://img.shields.io/github/stars/md-rashiid?label=Stars&style=for-the-badge&color=yellow)](https://github.com/md-rashiid)
+[![GitHub stars](https://img.shields.io/github/stars/md-rashiid?affiliations=OWNER&style=for-the-badge&color=yellow&label=Stars)](https://github.com/md-rashiid?tab=repositories)
 
 </div>
 

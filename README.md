@@ -108,24 +108,6 @@ public class MdRashid {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=md-rashiid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rashiid&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=md-rashiid&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-
----
-
 ## 📌 Featured Projects
 
 > 🔧 *Building awesome projects — stay tuned! More coming soon as I progress through my roadmap.*

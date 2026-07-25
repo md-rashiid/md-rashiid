@@ -90,11 +90,11 @@ public class MdRashid {
 ## 🚀 Learning Roadmap
 
 ```
-📅 Phase 1 → Core Java           [Sep - Dec 2025]   ✅ Completing
-📅 Phase 2 → Advanced Java       [Dec - Jan 2026]   🔄 In Progress
-📅 Phase 3 → Spring Boot + REST  [Jan - Feb 2026]   🚀 Coming Soon
-📅 Phase 4 → DevOps + Cloud      [Feb - Mar 2026]   📅 Planned
-📅 Phase 5 → System Design       [Mar - Apr 2026]   📅 Planned
+📅 Phase 1 → Core Java
+📅 Phase 2 → Advanced Java
+📅 Phase 3 → Spring Boot + REST
+📅 Phase 4 → DevOps + Cloud
+📅 Phase 5 → System Design
 ```
 
 ---

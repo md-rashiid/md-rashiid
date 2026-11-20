@@ -1,159 +1,68 @@
-<div align="center">
+# Md Rashid
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Md+Rashid+%F0%9F%91%8B;Backend+Engineer+%7C+Java+Specialist;Building+Scalable+Systems+%F0%9F%9A%80;Core+Java+%E2%86%92+Spring+Boot+%E2%86%92+Cloud)](https://git.io/typing-svg)
-
-</div>
+**Final-year B.Tech CSE student · Working toward a Java Backend Developer role**
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=md-rashiid&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/md-rashiid?label=Followers&style=for-the-badge&color=blue)](https://github.com/md-rashiid)
-[![GitHub stars](https://img.shields.io/github/stars/md-rashiid?affiliations=OWNER&style=for-the-badge&color=yellow&label=Stars)](https://github.com/md-rashiid?tab=repositories)
-
-</div>
-
----
-
-
-<div align="center">
-
-[![Open to Work](https://img.shields.io/badge/🚀_Open_to-Internship_%7C_Job-brightgreen?style=for-the-badge)](https://linkedin.com/in/md-rashid-8423642ab)
-[![Available for](https://img.shields.io/badge/Available_for-Backend_Projects_%7C_Collaboration-blue?style=for-the-badge)](https://github.com/md-rashiid)
-
-</div>
-
-## 👨‍💻 About Me
+## About Me
 
 ```java
 public class MdRashid {
-    String name       = "Md Rashid";
-    String role       = "Backend Engineer | Java Specialist";
-    String location   = "India 📍";
-    String education  = "6th Semester CSE Student";
-    String[] learning = {"Advanced Java", "Spring Boot", "System Design", "DevOps"};
-    String goal       = "Build scalable backend systems & crack top tech companies 🎯";
-    String funFact    = "I debug with coffee ☕ and ship with confidence 🚀";
+    String name          = "Md Rashid";
+    String education     = "B.Tech CSE, 7th Semester (Batch 2023-2027)";
+    String location      = "India";
+    String focus         = "Java Backend Development";
+    String[] learningNow = {"SQL", "MySQL"};
+    String nextUp        = "JDBC, Java I/O, then Spring Boot + JPA";
+    String principle     = "Write code I can explain line by line";
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
-<div align="center">
+**Languages & Databases**
 
-### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Backend & Frameworks (Learning Path)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & DevOps
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-## 🔥 Core Java Expertise
+## Core Java — What I Can Be Interviewed On
 
-| Domain | Skills |
-|--------|--------|
+| Area | Topics |
+| --- | --- |
 | **OOP** | Inheritance, Polymorphism, Encapsulation, Abstraction, Composition |
-| **Collections** | ArrayList, HashMap, HashSet, LinkedList, PriorityQueue, TreeMap |
-| **Design Patterns** | Strategy, Factory, Singleton, Observer, Adapter, Builder |
-| **Java 8+ Features** | Streams, Lambda, Functional Interfaces, Optional, Method References |
-| **Multithreading** | Threads, Executor Service, Synchronized, Locks, CompletableFuture |
-| **Exception Handling** | Try-catch, Custom Exceptions, Try-with-resources |
-| **Date/Time API** | LocalDate, LocalTime, ChronoUnit, DateTimeFormatter |
+| **Collections** | ArrayList, LinkedList, HashMap, HashSet, TreeMap, PriorityQueue |
+| **Strings** | Immutability, String Pool, StringBuilder vs StringBuffer |
+| **Exception Handling** | Checked vs Unchecked, Custom Exceptions, try-with-resources |
+| **Multithreading** | Thread Lifecycle, Runnable, synchronized, ExecutorService |
+| **Java 8** | Streams, Lambda, Functional Interfaces, Method References |
 
 ---
 
-## 🚀 Learning Roadmap
+## Currently Learning
 
-```
-📅 Phase 1 → Core Java
-📅 Phase 2 → Advanced Java
-📅 Phase 3 → Spring Boot + REST
-📅 Phase 4 → DevOps + Cloud
-📅 Phase 5 → System Design
-```
+- **SQL / MySQL** — joins, aggregations, indexing, writing queries by hand
+- **Next** — JDBC and Java I/O, then Spring Boot with JPA
 
 ---
 
-## 🌱 Currently Learning
+## Learning in Public
 
-- 🔹 **Advanced Java** — Generics, Multithreading, Java IO & NIO
-- 🔹 **Spring Boot** — REST APIs, Spring Security, JPA/Hibernate
-- 🔹 **System Design** — HLD/LLD, Caching, Load Balancing
-- 🔹 **Data Structures & Algorithms** — LeetCode grind 💪
+I post a **Java MCQ on LinkedIn** regularly, with the explanation in a follow-up post.
 
 ---
 
-## 📈 Contribution Activity
+## Connect
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-rashiid&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-> 🔧 *Building awesome projects — stay tuned! More coming soon as I progress through my roadmap.*
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🔨 **Java DSA Repo** | Data Structures & Algorithms in Java | Java | 🔄 Active |
-| 🔨 **Backend Projects** | Real-world backend systems | Java, Spring Boot | 🚀 Coming |
-| 🔨 **Mini E-Commerce** | REST API based shopping system | Spring Boot, MySQL | 📅 Planned |
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rashid-8423642ab)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-rashiid)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.rashiid@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/md-rashiid)
-
-</div>
-
-
----
-
-<div align="center">
-
-### 💬 Quote I Live By
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
----
-
-⭐ **If you find my work useful, consider giving a star!** ⭐
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rashid-8423642ab)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashiid.cse@gmail.com)
